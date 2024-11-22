@@ -1,4 +1,4 @@
-# Face Detection on AI Generated Images - Fall 2023 Semester Project
+# Fall 2023 Semester Project
 
 Reminder of Project Proposal Due Date:
 10/16
