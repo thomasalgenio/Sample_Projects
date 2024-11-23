@@ -1,12 +1,7 @@
 # Sample_Projects
 Compilation of Sample Projects by Thomas Algenio
 
-## Data Science Sample Work & Contributions
-## Contributions
-[Matching Messy Pandas columns with FuzzyWuzzy](https://medium.com/analytics-vidhya/matching-messy-pandas-columns-with-fuzzywuzzy-4adda6c7994f)
-
-* Identified and resolved a missing edge case in the article, "Matching Messy Pandas Columns with FuzzyWuzzy," published on Medium by Analytics Vidhya and written by Khalid El Mouloudi ([2020]).
-* Collaborated with the author to ensure comprehensive coverage of all potential use cases, improving the article's accuracy and completeness.
+## Data Science Sample Work
 
 ### Computer Vision Projects
 [Face Detection on AI Generated Images](https://github.com/thomasalgenio/Sample_Projects/tree/main/Face_Detection_on_AI_Generated_Images)
@@ -43,20 +38,3 @@ Compilation of Sample Projects by Thomas Algenio
 * Optimized different models including Logistic Regression, Random Forest, XGBoost, and Aritficial Nerual Networks to predict target variable (blood pressure)
 * Using metrics from output of model, insights gave information to predict Hypertension
 * Further analysis not only shared prediction to Hypertension but features (symptoms) that strongly cause the disease.  
-
-### Visualizations of Features from Hypertension Insights
-[Hypertension by Age](https://github.com/thomasalgenio/Sample_Projects/tree/263caf5c4e4587d46c72187b9081874bf19cf1c5/Hypertension_Prediction)  
-
-![](images/Age%20Hypertension.png)
-
-[Hypertension by Income](https://github.com/thomasalgenio/Sample_Projects/tree/263caf5c4e4587d46c72187b9081874bf19cf1c5/Hypertension_Prediction)  
-
-![](images/Income%20Hypertension.png)
-
-[Hypertension by Race](https://github.com/thomasalgenio/Sample_Projects/tree/263caf5c4e4587d46c72187b9081874bf19cf1c5/Hypertension_Prediction)  
-
-![](images/Race%20Hypertension.png)
-
-[Hypertension by Sex](https://github.com/thomasalgenio/Sample_Projects/tree/263caf5c4e4587d46c72187b9081874bf19cf1c5/Hypertension_Prediction)  
-
-![](images/Sex%20Hypertension.png)
